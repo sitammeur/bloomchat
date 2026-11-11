@@ -13,7 +13,7 @@
 <a href="https://docs.sambanova.ai/docs/en/features/openai-compatibility"><img src="https://img.shields.io/badge/OpenAI--compatible%20API-blue" alt="OpenAI-compatible API"></a>
 <a href="https://huggingface.co/sambanovasystems"><img src="https://img.shields.io/badge/Hugging%20Face-yellow?logo=huggingface&logoColor=white" alt="Hugging Face"></a>
 
-SambaNova's Reconfigurable Dataflow Unit (RDU) runs a model's operations as one on-chip pipeline instead of kernel by kernel, and serves DeepSeek, Llama and gpt-oss through SambaCloud's OpenAI-compatible API or SambaStack.
+SambaNova's Reconfigurable Dataflow Unit (RDU) runs a model's operations as one on-chip pipeline instead of kernel by kernel, and serves DeepSeek, Llama, and gpt-oss through SambaCloud and SambaStack.
 
 <!-- <video src="https://github.com/user-attachments/assets/VIDEO_ID"></video> -->
 
