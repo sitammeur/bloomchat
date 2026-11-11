@@ -1,3 +1,38 @@
+<div align="center">
+
+<a href="https://sambanova.ai" target="_blank">
+  <picture>
+    <source srcset="/docs/source/img/SambaNova-dark-logo-1.png" media="(prefers-color-scheme: light)">
+    <source srcset="/docs/source/img/SambaNova-light-logo-1.png" media="(prefers-color-scheme: dark)">
+    <img
+      alt="SambaNova logo"
+      src="/docs/source/img/SambaNova-dark-logo-1.png"
+      width="400"
+    >
+  </picture>
+</a>
+
+## Fast, energy-efficient AI inference, from the chip up to the model
+
+<a href="https://cloud.sambanova.ai"><img src="https://img.shields.io/badge/SambaCloud-Try%20it%20now-orange?logo=icloud&logoColor=white" alt="SambaCloud"></a>
+<a href="https://docs.sambanova.ai"><img src="https://img.shields.io/badge/Documentation-blue?logo=gitbook&logoColor=white" alt="Documentation"></a>
+<a href="https://docs.sambanova.ai/docs/en/get-started/quickstart"><img src="https://img.shields.io/badge/Quickstart-blue?logo=readme&logoColor=white" alt="Quickstart"></a>
+<a href="https://docs.sambanova.ai/docs/en/features/openai-compatibility"><img src="https://img.shields.io/badge/API-OpenAI--compatible-blue?logo=fastapi&logoColor=white" alt="OpenAI-compatible API"></a>
+<a href="https://huggingface.co/sambanovasystems"><img src="https://img.shields.io/badge/Hugging%20Face-sambanovasystems-yellow?logo=huggingface&logoColor=white" alt="Hugging Face"></a>
+<a href="https://github.com/sambanova"><img src="https://img.shields.io/badge/GitHub-sambanova-black?logo=github&logoColor=white" alt="GitHub"></a>
+
+SambaNova builds the Reconfigurable Dataflow Unit (RDU), an AI chip with dataflow processing and a three-tier memory design, and runs the largest open-source models on it (DeepSeek, Llama, Qwen, gpt-oss). Build on it through SambaCloud's OpenAI-compatible API, or run it in your own data center with SambaStack and SambaRack.
+
+<!-- <video src="https://github.com/user-attachments/assets/VIDEO_ID"></video> -->
+
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sambanova/bloomchat/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sambanova/bloomchat/tree/main)
 [![Python](https://img.shields.io/badge/python-%3E=3.7-blue.svg)](https://www.python.org/)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
