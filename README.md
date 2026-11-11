@@ -1,15 +1,7 @@
 <div align="center">
 
 <a href="https://sambanova.ai" target="_blank">
-  <picture>
-    <source srcset="/docs/source/img/SambaNova-dark-logo-1.png" media="(prefers-color-scheme: light)">
-    <source srcset="/docs/source/img/SambaNova-light-logo-1.png" media="(prefers-color-scheme: dark)">
-    <img
-      alt="SambaNova logo"
-      src="/docs/source/img/SambaNova-dark-logo-1.png"
-      width="400"
-    >
-  </picture>
+  <img alt="SambaNova logo" src="/docs/source/img/SambaNova-dark-logo-1.png" width="400">
 </a>
 
 ## Fast, energy-efficient AI inference, from the chip up to the model
