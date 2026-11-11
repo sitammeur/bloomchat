@@ -4,16 +4,16 @@
   <img alt="SambaNova logo" src="/docs/source/img/SambaNova-dark-logo-1.png" width="400">
 </a>
 
-## Fast, energy-efficient AI inference, from the chip up to the model
+## Dataflow chips built for fast AI inference
 
-<a href="https://cloud.sambanova.ai"><img src="https://img.shields.io/badge/SambaCloud-Try%20it%20now-orange?logo=icloud&logoColor=white" alt="SambaCloud"></a>
+<a href="https://cloud.sambanova.ai"><img src="https://img.shields.io/badge/SambaCloud-orange?logo=icloud&logoColor=white" alt="SambaCloud"></a>
+<a href="https://sambanova.ai/products/dataflow-architecture"><img src="https://img.shields.io/badge/Dataflow%20Architecture-orange" alt="Dataflow Architecture"></a>
 <a href="https://docs.sambanova.ai"><img src="https://img.shields.io/badge/Documentation-blue?logo=gitbook&logoColor=white" alt="Documentation"></a>
 <a href="https://docs.sambanova.ai/docs/en/get-started/quickstart"><img src="https://img.shields.io/badge/Quickstart-blue?logo=readme&logoColor=white" alt="Quickstart"></a>
-<a href="https://docs.sambanova.ai/docs/en/features/openai-compatibility"><img src="https://img.shields.io/badge/API-OpenAI--compatible-blue?logo=fastapi&logoColor=white" alt="OpenAI-compatible API"></a>
-<a href="https://huggingface.co/sambanovasystems"><img src="https://img.shields.io/badge/Hugging%20Face-sambanovasystems-yellow?logo=huggingface&logoColor=white" alt="Hugging Face"></a>
-<a href="https://github.com/sambanova"><img src="https://img.shields.io/badge/GitHub-sambanova-black?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://docs.sambanova.ai/docs/en/features/openai-compatibility"><img src="https://img.shields.io/badge/OpenAI--compatible%20API-blue" alt="OpenAI-compatible API"></a>
+<a href="https://huggingface.co/sambanovasystems"><img src="https://img.shields.io/badge/Hugging%20Face-yellow?logo=huggingface&logoColor=white" alt="Hugging Face"></a>
 
-SambaNova builds the Reconfigurable Dataflow Unit (RDU), an AI chip with dataflow processing and a three-tier memory design, and runs the largest open-source models on it (DeepSeek, Llama, Qwen, gpt-oss). Build on it through SambaCloud's OpenAI-compatible API, or run it in your own data center with SambaStack and SambaRack.
+SambaNova's Reconfigurable Dataflow Unit (RDU) runs a model's operations as one on-chip pipeline instead of kernel by kernel, and serves DeepSeek, Llama and gpt-oss through SambaCloud's OpenAI-compatible API or SambaStack.
 
 <!-- <video src="https://github.com/user-attachments/assets/VIDEO_ID"></video> -->
 
